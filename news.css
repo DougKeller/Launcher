@@ -1,16 +1,21 @@
 h1 {
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
-    color: #fff;
+    color: #ffffff;
 }
 h2 {
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
-    color: #ccc;
-    padding-left: 10px;
+    color: #cccccc;
+    padding-left: 4px;
+}
+li {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    color: #aaaaaa;
 }
 body {
-  padding: 50px 100px;
+  padding: 20px 40px;
   background-repeat: no-repeat;
 }
 html {
