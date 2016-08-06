@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : null,
+      "name" : "MineDesign",
+      "version" : "2016-08-06-11-12-27",
+      "location" : "minedesign.json",
+      "priority" : 0
+    }
+  ]
+}
