@@ -1,20 +1,19 @@
-
 {
   "minimumVersion" : 1,
   "packages" : [
-    {
-      "title" : null,
-      "name" : "MineDesign 1.10.2",
-      "version" : "2016-08-06-11-12-27",
-      "location" : "minedesign.json",
-      "priority" : 0
-    },
     {
       "title" : null,
       "name" : "MineDesign 1.7.10",
       "version" : "2016-08-06-11-12-27",
       "location" : "minedesign-1.7.10---old-world.json",
       "priority" : 1
+    },
+    {
+      "title" : null,
+      "name" : "Clayton's World",
+      "version" : "2016-08-06-11-12-27",
+      "location" : "clayton-s-world.json",
+      "priority" : 0
     }
   ]
 }
