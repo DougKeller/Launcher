@@ -2,25 +2,25 @@
   "minimumVersion" : 1,
   "packages" : [
     {
-      "title" : null,
-      "name" : "MineDesign 1.7.10",
-      "version" : "2016-08-06-11-12-27",
-      "location" : "minedesign-1.7.10---old-world.json",
+      "title" : "Try mods we've never used before",
+      "name" : "The New Things Pack",
+      "version" : "2017-03-01-14-44-34",
+      "location" : "the-new-things-pack.json",
       "priority" : 1
     },
     {
-      "title" : null,
+      "title" : "A World for Boys",
       "name" : "Clayton's World",
-      "version" : "2016-08-06-11-12-27",
+      "version" : "2017-03-01-14-44-29",
       "location" : "clayton-s-world.json",
       "priority" : 0
     },
     {
-      "title" : null,
-      "name" : "The New Things Pack",
-      "version" : "2016-08-06-11-12-27",
-      "location" : "the-new-things-pack.json",
-      "priority" : 1
+      "title" : "Old World - Tower, Bowl, etc.",
+      "name" : "Troy's Server",
+      "version" : "2017-03-01-14-44-39",
+      "location" : "troy-s-server.json",
+      "priority" : 0
     }
   ]
 }
