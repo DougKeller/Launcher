@@ -2,23 +2,23 @@
   "minimumVersion" : 1,
   "packages" : [
     {
-      "title" : "Try mods we've never used before",
+      "title" : "The New Things Pack",
       "name" : "The New Things Pack",
-      "version" : "2017-03-01-14-49-14",
+      "version" : "2017-03-03-14-36-54",
       "location" : "the-new-things-pack.json",
       "priority" : 1
     },
     {
-      "title" : "A World for Boys",
+      "title" : "Clayton's World",
       "name" : "Clayton's World",
-      "version" : "2017-03-01-14-49-00",
+      "version" : "2017-03-03-14-36-58",
       "location" : "clayton-s-world.json",
       "priority" : 0
     },
     {
-      "title" : "Old World - Tower, Bowl, etc.",
+      "title" : "Troy's Server",
       "name" : "Troy's Server",
-      "version" : "2017-03-01-14-49-20",
+      "version" : "2017-03-03-14-36-44",
       "location" : "troy-s-server.json",
       "priority" : 0
     }
